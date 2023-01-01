@@ -5,13 +5,12 @@ permalink: /about/
 ---
 
 名称：はらやま れせ<br>
-年龄：22<br>
+出生日期：2002年3月14日
 祖籍：中国浙江<br>
 毕业于日本名古屋大学日本古建筑保护与历史学<br>
 现为日本幻象琉璃会社副总裁，中国区总裁<br>
 
 ### 自我介绍
-
 你好，我叫原山恋星（はらやま れせ），英文名HarayamaRese<br>
 目前是一名东方Project日本同人创作者<br>
 我所在的社团名叫幻象琉璃，主要方向为东方Project同人作品创作<br>
@@ -25,14 +24,12 @@ MC of Win10 ID：HarayamaRese322<br>
 如果你也对PC游戏感兴趣，可以添加我的steam好友来深入♂交流（确信）<br>
 
 ### 友情♡链接
-
 [Steam](https://steamcommunity.com/id/HarayamaRese/)<br>
 [幻象琉璃](https://thwiki.cc/-/4m2m)<br>
 [thwiki of me](https://thwiki.cc/-/560t)<br>
 [404页面测试](QQ651715794)<br>
 
 ### 喜欢的游戏
-
 [(赛博朋克2077)Cyberpunk 2077](https://store.steampowered.com/app/1091500)<br>
 [(艾尔登法环)ELDEN RING](https://store.steampowered.com/app/1245620)<br>
 [(消逝的光芒1)Dying_Light 1](https://store.steampowered.com/app/239140)<br>
