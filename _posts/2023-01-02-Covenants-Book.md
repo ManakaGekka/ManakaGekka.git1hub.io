@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于MMORPG网游契约之书
+title: 关于网游《契约之书》
 ---
 
 《契约之书》立项于2015年2月，起初拟定游戏类型为STG<br>
