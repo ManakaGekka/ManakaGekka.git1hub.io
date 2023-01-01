@@ -15,7 +15,7 @@ title: 关于MMORPG网游契约之书
 后续点卡价格每小时70日元，换算后约为3.68人民币<br>
 首次购买点卡需20小时以上，首次充值点卡后可游玩后续全部剧情<br>
 <br>
-## 最低配置：<br>
+最低配置：<br>
 操作系统：Windows 8.1 64 bit；Windows 10 64 bit；Windows 11 64 bit<br>
 DirectX：DirectX 11<br>
 CPU：Intel® Core™i5 2.4GHz 以上<br>
@@ -23,11 +23,11 @@ CPU：Intel® Core™i5 2.4GHz 以上<br>
 显示卡：NVIDIA GeForce GTX750；AMD Radeon R7 260X<br>
 硬盘：80GB或更大<br>
 <br>
-## 游戏销量<br>
+游戏销量：<br>
 <br>
 截止东京时间2022年11月21日12时，全球注册玩家达2800万<br>
 <br>
-## 手游计划
+手游计划：<br>
 <br>
 2022年12月成立《契约之书》手游项目组，由国内分社团全权负责<br>
 《契约之书》手游初始项目资金1.2亿日元，初始开发项目组人数82人<br>
