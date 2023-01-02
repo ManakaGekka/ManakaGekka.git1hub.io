@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 社团简介
-permalink: /ICG/
+permalink: /icg/
 ---
 
 社团名称：イリュージョンカラーグレーズ<br>
