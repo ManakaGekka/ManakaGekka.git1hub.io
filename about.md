@@ -47,10 +47,8 @@ MC of Win10 ID：HarayamaRese322<br>
 初始使用自研ICG游戏引擎，后续使用Unreal 4重制，下载游戏时可自行选择<br>
 游戏自带中文/日文/英文扩展包，其他语言包需前往社团官网进行下载<br>
 游玩《契约之书》需玩家前往线下指定地点购买游戏key后访问官方网站下载游戏<br>
-游戏key定价79人民币，初始赠送4800分钟游戏时间与主线1-5章的游戏内容<br>
-游戏采用点卡消费制，玩家安装游戏使用CDK绑定游戏账号后初始拥有340分钟游戏时间<br>
+key定价79人民币，安装游戏后使用CDK绑定官网账号后初始拥有720分钟游戏时间<br>
 后续点卡价格每小时70日元，换算后约为3.68人民币<br>
-首次购买点卡需20小时以上，首次充值点卡后可游玩后续全部剧情<br>
 ### 游戏销量
 截止东京时间2022年11月21日12时，全球注册玩家达280万<br>
 ### 手游计划
@@ -61,7 +59,7 @@ MC of Win10 ID：HarayamaRese322<br>
 [Steam](https://steamcommunity.com/id/HarayamaRese/)<br>
 [幻象琉璃](https://thwiki.cc/-/4m2m)<br>
 [thwiki of me](https://thwiki.cc/-/560t)<br>
-[404页面测试](QQ651715794)<br>
+[404页面测试](1145141919810)<br>
 # 喜欢的游戏
 [(赛博朋克2077)Cyberpunk 2077](https://store.steampowered.com/app/1091500)<br>
 [(艾尔登法环)ELDEN RING](https://store.steampowered.com/app/1245620)<br>
