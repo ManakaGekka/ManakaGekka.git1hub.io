@@ -68,19 +68,3 @@ key定价79人民币，安装游戏后使用CDK绑定官网账号后初始拥有
 [(上古卷轴5：天际特别版)The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830)<br>
 [(求生之路2)Left 4 Dead 2](https://store.steampowered.com/app/550)<br>
 [(古墓丽影9)Tomb Raider](https://store.steampowered.com/app/203160)<br>
-更多游戏请前往我的[steam](https://steamcommunity.com/id/HarayamaRese/)个人页面查看<br>
-/*
-//佛祖保佑,永无BUG 
-//佛曰:  
-//写字楼里写字间，写字间里程序员；  
-//程序人员写程序，又拿程序换酒钱。  
-//酒醒只在网上坐，酒醉还来网下眠；  
-//酒醉酒醒日复日，网上网下年复年。  
-//但愿老死电脑间，不愿鞠躬老板前；  
-//奔驰宝马贵者趣，公交自行程序员。  
-//别人笑我忒疯癫，我笑自己命太贱；  
-//不见满街漂亮妹，哪个归得程序员？
-//博主曰:  
-//愿世间再无BUG，祝猿们早日出任CEO，  
-//赢取白富美，走上人生的巅峰！~~~
-*/
