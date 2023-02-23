@@ -58,12 +58,12 @@ key定价79人民币，安装游戏后使用CDK绑定官网账号后初始拥有
 [Steam](https://steamcommunity.com/id/HarayamaRese/)<br>
 [幻象琉璃](https://thwiki.cc/-/4m2m)<br>
 [thwiki of me](https://thwiki.cc/-/560t)<br>
-[404页面测试](1145141919810)<br>
+[404页面测试](1083700345)
 # 喜欢的游戏
 [(赛博朋克2077)Cyberpunk 2077](https://store.steampowered.com/app/1091500)<br>
 [(艾尔登法环)ELDEN RING](https://store.steampowered.com/app/1245620)<br>
 [(消逝的光芒1)Dying_Light 1](https://store.steampowered.com/app/239140)<br>
-[(死亡搁浅)DEATH STRANDING]()<br>
+[(死亡搁浅)DEATH STRANDING](笑死游戏在steam已经停售了)<br>
 [(巫师三：狂猎)The Witcher 3:Wild Hunt](https://store.steampowered.com/app/292030)<br>
 [(上古卷轴5：天际特别版)The Elder Scrolls V: Skyrim Special Edition](https://store.steampowered.com/app/489830)<br>
 [(求生之路2)Left 4 Dead 2](https://store.steampowered.com/app/550)<br>
