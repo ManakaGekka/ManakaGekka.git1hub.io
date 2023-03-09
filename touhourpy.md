@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: TouHourpy
 title: TouHourpy
 permalink: /THrpy/
 ---
