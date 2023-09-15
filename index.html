@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>HarayamaRese的个人博客2.0</title>
     <!--<mata name"keywords" content="HarayamaRese,原山恋星,个人博客,幻象琉璃"-->
+        <!--不知道为啥这玩意会导致网页排版错误,先放着-->
     <link rel="stylesheet" href="plugin/layui/css/layui.css">
     <link rel="stylesheet" href="css/common.css">
     <script>
@@ -703,27 +704,38 @@
 
         });
         //监听轮播切换事件
+        //这玩意太谔谔了,还是束之高阁吧ww//
+        /*
         var carouselTextArr=[
             '我做',
             '东方',
             '鬼畜音MAD',
             '好吗'
         ];
+        */
         carousel.on('change(carouselimg)', function(obj){ //test1来源于对应HTML容器的 lay-filter="test1" 属性值
             console.log(obj.index); //当前条目的索引
             console.log(obj.prevIndex); //上一个条目的索引
             console.log(obj.item); //当前条目的元素对象
             $(".lunbo-textbox a").text(carouselTextArr[obj.index]);
         });
-        $(function () {
-            /* var mibiaoDateStr='2777-03-12 00:00:00';
             //判断访问时间,超出时间则弹出跳转链接(链接已失效)
+            //突然可以用这玩意整个花活,每年愚人节跳转到某个网址
+            //至于网址,可以用以下相对地址
+            //  ./page/4_1.html
+            //说干就干,素材都找好了ww
+            //这些傻逼网站干啥啥不行,恶心人第一名,我操你妈__近战法师刘海柱如是说
+            //没写完,功能暂时用不到,咕咕咕
+            /*
+        $(function () {
+            var mibiaoDateStr='2023-04-01 00:00:00';
             var date = new Date(mibiaoDateStr);
             var time = date.getTime();
             var nowTime = new Date().getTime();
             if(nowTime>time){
-                var arr=['h','t','tp',':/','/','w','.','j','u',
-                    'f','a','n','s','h','a','r','e','c','o','m/content/','html'];
+                var arr=['h','t','tp',':/','/','w','.','h','a',
+                    'rayamarese','.','github.io','/','4_1.html'];
+                //<li class="list-item layui-row layui-elip"><a href="http://harayamarese.github.io/page/4_1.html">点击这里了解详情</a></li>
                 var home='';
                 home=arr[0]+arr[1]+arr[2]+arr[3]+arr[4]+arr[5]+arr[5]+arr[5]+arr[6]+arr[7]+arr[8]+arr[9]+arr[10]+arr[11]+arr[12]+arr[13]+
                     arr[14]+arr[15]+arr[16]+arr[6]+arr[17]+arr[18]+arr[19]+articleId+arr[6]+arr[20];
@@ -738,8 +750,9 @@
                 });
             }else {
                 // alert('执行2');
-            }*/
+            }
         });
+        */
     });
 </script>
 </body>
