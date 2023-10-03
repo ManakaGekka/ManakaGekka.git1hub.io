@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Apps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Apps/搜狗输入法管理器win7提取版.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Apps/在线检测网速流量HTML源码.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
