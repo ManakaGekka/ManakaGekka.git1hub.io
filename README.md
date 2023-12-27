@@ -1,2 +1,2 @@
-# HarayamaRese.github.io
+# ManakaGekka.github.io
 我的Github个人博客2.0
